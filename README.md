@@ -1,70 +1,46 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+FACEBOOK CLONE
 
-In the project directory, you can run:
+Bu proje, Facebook'un temel özelliklerini taklit eden bir sosyal medya platformu klonudur. React kullanılarak geliştirilmiştir ve modern web geliştirme tekniklerini öğrenmek ve uygulamak amacıyla tasarlanmıştır.
 
-### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+ÖZELLİKLER
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+*Kullanıcı Kaydı ve Girişi: Kullanıcılar hesap oluşturabilir ve sisteme giriş yapabilirler.
 
-### `npm test`
+*Gönderi Paylaşımı: Kullanıcılar gönderi oluşturabilir, düzenleyebilir ve silebilirler.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+*Beğeni ve Yorum: Gönderilere beğeni ekleyebilir ve yorum yapabilirler.
+*
 
-### `npm run build`
+*Profil Sayfası: Kullanıcılar profil bilgilerini görüntüleyebilir ve düzenleyebilirler.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+*Arkadaşlık Sistemi: Kullanıcılar diğer kullanıcılarla arkadaş olabilir ve arkadaşlık isteklerini yönetebilirler.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+*Bildirimler: Kullanıcılar etkileşimler için bildirim alabilirler.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
+TEKNOLOJİLER
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+Bu projede kullanılan başlıca teknolojiler:
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+React: Kullanıcı arayüzü bileşenleri oluşturmak için.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+CSS/Sass: Kullanıcı arayüzü stilini özelleştirmek için.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+KATKIDA BULUNMA 
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+Katkılarınızı memnuniyetle karşılıyorum! Eğer projeye katkıda bulunmak isterseniz:
 
-### Code Splitting
+Depoyu çatallayın (fork).
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+Yeni bir özellik üzerinde çalışmak için bir dal oluşturun (git checkout -b yeni-ozellik).
 
-### Analyzing the Bundle Size
+Değişikliklerinizi işleyin (git commit -m 'Yeni özellik ekle').
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+Dalınıza değişiklikleri itekleyin (git push origin yeni-ozellik).
 
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Bir Pull Request oluşturun.
